@@ -1,7 +1,7 @@
 # gameasm
 <p>
 
-<i></i>
+
 sudo apt update
 sudo apt install nasm gcc
 
